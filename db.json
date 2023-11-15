@@ -1,7 +1,7 @@
 {
-  "pokemon": [
+  "books": [
     {
-      "name": "Venusaur",
+      "id": "Venusaur",
       "type1": "Grass",
       "type2": "Poison",
       "japanese_name": "Fushigibana",
@@ -9,7 +9,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png/revision/latest?cb=20230417225125"
     },
     {
-      "name": "Charizard",
+      "id": "Charizard",
       "type1": "Fire",
       "type2": "Flying",
       "japanese_name": "Lizardon",
@@ -17,7 +17,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png/revision/latest?cb=20230417230359"
     },
     {
-      "name": "Butterfree",
+      "id": "Butterfree",
       "type1": "Bug",
       "type2": "Flying",
       "japanese_name": "Butterfree",
@@ -25,7 +25,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b8/012.png/revision/latest?cb=20230417235015"
     },
     {
-      "name": "Beedrill",
+      "id": "Beedrill",
       "type1": "Bug",
       "type2": "Poison",
       "japanese_name": "Spear",
@@ -33,7 +33,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png/revision/latest?cb=20230418001613"
     },
     {
-      "name": "Fearow",
+      "id": "Fearow",
       "type1": "Normal",
       "type2": "Flying",
       "japanese_name": "Onidrill",
@@ -41,7 +41,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png/revision/latest?cb=20230418030948"
     },
     {
-      "name": "Nidoqueen",
+      "id": "Nidoqueen",
       "type1": "Poison",
       "type2": "Ground",
       "japanese_name": "Nidoqueen",
@@ -49,7 +49,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/6/61/031.png/revision/latest?cb=20230419013532"
     },
     {
-      "name": "Venomoth",
+      "id": "Venomoth",
       "type1": "Bug",
       "type2": "Poison",
       "japanese_name": "Morphon",
@@ -57,7 +57,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png/revision/latest?cb=20230419173621"
     },
     {
-      "name": "Wigglytuff",
+      "id": "Wigglytuff",
       "type1": "Normal",
       "type2": "Fairy",
       "japanese_name": "Pukurin",
@@ -65,7 +65,7 @@
       "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9c/040.png/revision/latest?cb=20230418004429"
     },
     {
-      "name": "Jynx",
+      "id": "Jynx",
       "type1": "Ice",
       "type2": "Psychic",
       "japanese_name": "Rougela",
